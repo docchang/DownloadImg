@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C882DC33141F8A7300774427 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C882DC32141F8A7300774427 /* UIKit.framework */; };
+		C882DC35141F8A7300774427 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C882DC34141F8A7300774427 /* Foundation.framework */; };
+		C882DC37141F8A7300774427 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C882DC36141F8A7300774427 /* CoreGraphics.framework */; };
+		C882DC3D141F8A7300774427 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = C882DC3B141F8A7300774427 /* InfoPlist.strings */; };
+		C882DC40141F8A7300774427 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C882DC3F141F8A7300774427 /* main.m */; };
+		C882DC43141F8A7300774427 /* DownloadImgAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C882DC42141F8A7300774427 /* DownloadImgAppDelegate.m */; };
+		C882DC46141F8A7300774427 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = C882DC44141F8A7300774427 /* MainWindow.xib */; };
+		C882DC49141F8A7300774427 /* DownloadImgViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C882DC48141F8A7300774427 /* DownloadImgViewController.m */; };
+		C882DC4C141F8A7300774427 /* DownloadImgViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = C882DC4A141F8A7300774427 /* DownloadImgViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C882DC2E141F8A7300774427 /* DownloadImg.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownloadImg.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C882DC32141F8A7300774427 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C882DC34141F8A7300774427 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C882DC36141F8A7300774427 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C882DC3A141F8A7300774427 /* DownloadImg-Info.plist */ = {isa = PBXFileReference; path = "DownloadImg-Info.plist"; sourceTree = "<group>"; };
+		C882DC3C141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		C882DC3E141F8A7300774427 /* DownloadImg-Prefix.pch */ = {isa = PBXFileReference; path = "DownloadImg-Prefix.pch"; sourceTree = "<group>"; };
+		C882DC3F141F8A7300774427 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		C882DC41141F8A7300774427 /* DownloadImgAppDelegate.h */ = {isa = PBXFileReference; path = DownloadImgAppDelegate.h; sourceTree = "<group>"; };
+		C882DC42141F8A7300774427 /* DownloadImgAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownloadImgAppDelegate.m; sourceTree = "<group>"; };
+		C882DC45141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		C882DC47141F8A7300774427 /* DownloadImgViewController.h */ = {isa = PBXFileReference; path = DownloadImgViewController.h; sourceTree = "<group>"; };
+		C882DC48141F8A7300774427 /* DownloadImgViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownloadImgViewController.m; sourceTree = "<group>"; };
+		C882DC4B141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/DownloadImgViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		C882DC2B141F8A7300774427 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C882DC33141F8A7300774427 /* UIKit.framework in Frameworks */,
+				C882DC35141F8A7300774427 /* Foundation.framework in Frameworks */,
+				C882DC37141F8A7300774427 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		C882DC23141F8A7300774427 = {
+			isa = PBXGroup;
+			children = (
+				C882DC38141F8A7300774427 /* DownloadImg */,
+				C882DC31141F8A7300774427 /* Frameworks */,
+				C882DC2F141F8A7300774427 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		C882DC2F141F8A7300774427 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C882DC2E141F8A7300774427 /* DownloadImg.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		C882DC31141F8A7300774427 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C882DC32141F8A7300774427 /* UIKit.framework */,
+				C882DC34141F8A7300774427 /* Foundation.framework */,
+				C882DC36141F8A7300774427 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C882DC38141F8A7300774427 /* DownloadImg */ = {
+			isa = PBXGroup;
+			children = (
+				C882DC41141F8A7300774427 /* DownloadImgAppDelegate.h */,
+				C882DC42141F8A7300774427 /* DownloadImgAppDelegate.m */,
+				C882DC44141F8A7300774427 /* MainWindow.xib */,
+				C882DC47141F8A7300774427 /* DownloadImgViewController.h */,
+				C882DC48141F8A7300774427 /* DownloadImgViewController.m */,
+				C882DC4A141F8A7300774427 /* DownloadImgViewController.xib */,
+				C882DC39141F8A7300774427 /* Supporting Files */,
+			);
+			path = DownloadImg;
+			sourceTree = "<group>";
+		};
+		C882DC39141F8A7300774427 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				C882DC3A141F8A7300774427 /* DownloadImg-Info.plist */,
+				C882DC3B141F8A7300774427 /* InfoPlist.strings */,
+				C882DC3E141F8A7300774427 /* DownloadImg-Prefix.pch */,
+				C882DC3F141F8A7300774427 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		C882DC2D141F8A7300774427 /* DownloadImg */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C882DC4F141F8A7300774427 /* Build configuration list for PBXNativeTarget "DownloadImg" */;
+			buildPhases = (
+				C882DC2A141F8A7300774427 /* Sources */,
+				C882DC2B141F8A7300774427 /* Frameworks */,
+				C882DC2C141F8A7300774427 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DownloadImg;
+			productName = DownloadImg;
+			productReference = C882DC2E141F8A7300774427 /* DownloadImg.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		C882DC25141F8A7300774427 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C882DC28141F8A7300774427 /* Build configuration list for PBXProject "DownloadImg" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = C882DC23141F8A7300774427;
+			productRefGroup = C882DC2F141F8A7300774427 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				C882DC2D141F8A7300774427 /* DownloadImg */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		C882DC2C141F8A7300774427 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C882DC3D141F8A7300774427 /* InfoPlist.strings in Resources */,
+				C882DC46141F8A7300774427 /* MainWindow.xib in Resources */,
+				C882DC4C141F8A7300774427 /* DownloadImgViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		C882DC2A141F8A7300774427 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C882DC40141F8A7300774427 /* main.m in Sources */,
+				C882DC43141F8A7300774427 /* DownloadImgAppDelegate.m in Sources */,
+				C882DC49141F8A7300774427 /* DownloadImgViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		C882DC3B141F8A7300774427 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C882DC3C141F8A7300774427 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		C882DC44141F8A7300774427 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C882DC45141F8A7300774427 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		C882DC4A141F8A7300774427 /* DownloadImgViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C882DC4B141F8A7300774427 /* en */,
+			);
+			name = DownloadImgViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C882DC4D141F8A7300774427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C882DC4E141F8A7300774427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		C882DC50141F8A7300774427 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DownloadImg/DownloadImg-Prefix.pch";
+				INFOPLIST_FILE = "DownloadImg/DownloadImg-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		C882DC51141F8A7300774427 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "DownloadImg/DownloadImg-Prefix.pch";
+				INFOPLIST_FILE = "DownloadImg/DownloadImg-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C882DC28141F8A7300774427 /* Build configuration list for PBXProject "DownloadImg" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C882DC4D141F8A7300774427 /* Debug */,
+				C882DC4E141F8A7300774427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C882DC4F141F8A7300774427 /* Build configuration list for PBXNativeTarget "DownloadImg" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C882DC50141F8A7300774427 /* Debug */,
+				C882DC51141F8A7300774427 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C882DC25141F8A7300774427 /* Project object */;
+}
