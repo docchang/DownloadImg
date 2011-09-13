@@ -23,14 +23,14 @@
 		C882DC32141F8A7300774427 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		C882DC34141F8A7300774427 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		C882DC36141F8A7300774427 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		C882DC3A141F8A7300774427 /* DownloadImg-Info.plist */ = {isa = PBXFileReference; path = "DownloadImg-Info.plist"; sourceTree = "<group>"; };
+		C882DC3A141F8A7300774427 /* DownloadImg-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DownloadImg-Info.plist"; sourceTree = "<group>"; };
 		C882DC3C141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		C882DC3E141F8A7300774427 /* DownloadImg-Prefix.pch */ = {isa = PBXFileReference; path = "DownloadImg-Prefix.pch"; sourceTree = "<group>"; };
+		C882DC3E141F8A7300774427 /* DownloadImg-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DownloadImg-Prefix.pch"; sourceTree = "<group>"; };
 		C882DC3F141F8A7300774427 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		C882DC41141F8A7300774427 /* DownloadImgAppDelegate.h */ = {isa = PBXFileReference; path = DownloadImgAppDelegate.h; sourceTree = "<group>"; };
+		C882DC41141F8A7300774427 /* DownloadImgAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownloadImgAppDelegate.h; sourceTree = "<group>"; };
 		C882DC42141F8A7300774427 /* DownloadImgAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownloadImgAppDelegate.m; sourceTree = "<group>"; };
 		C882DC45141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		C882DC47141F8A7300774427 /* DownloadImgViewController.h */ = {isa = PBXFileReference; path = DownloadImgViewController.h; sourceTree = "<group>"; };
+		C882DC47141F8A7300774427 /* DownloadImgViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DownloadImgViewController.h; sourceTree = "<group>"; };
 		C882DC48141F8A7300774427 /* DownloadImgViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DownloadImgViewController.m; sourceTree = "<group>"; };
 		C882DC4B141F8A7300774427 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/DownloadImgViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -276,6 +276,7 @@
 				C882DC51141F8A7300774427 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
