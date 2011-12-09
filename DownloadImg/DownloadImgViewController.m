@@ -32,7 +32,8 @@
     [super viewDidLoad];
     
     NSString *sURL = @"https://lh3.googleusercontent.com/-aqQqmBTDerQ/Tm9jsxkIExI/AAAAAAAABo0/nYb8aZeHa7w/s800/background%2525402x.png";
-    NSURLRequest *request = [[NSURLRequest alloc] initWithURL:[NSURL URLWithString:sURL]
+    NSString *fixedURL = [sURL stringByAddingPercentEscapesUsingEncoding:NSUTF8StringEncoding];
+    NSURLRequest *request = [[NSURLRequest alloc] initWithURL:[NSURL URLWithString:fixedURL]
                                                   cachePolicy:NSURLRequestReloadIgnoringLocalAndRemoteCacheData 
                                               timeoutInterval:5.0f];
     NSURLConnection *connection = [[NSURLConnection alloc] initWithRequest:request 
@@ -43,7 +44,7 @@
     //create imageView only when valid connection status
     if (connection) {
         self.imgView = [[UIImageView alloc] init];
-        imgView.frame = CGRectMake(10,10,200,300);
+        imgView.frame = CGRectMake(0,0,320,480);
         [self.view addSubview:imgView];
         
         self.recvData = [NSMutableData data];

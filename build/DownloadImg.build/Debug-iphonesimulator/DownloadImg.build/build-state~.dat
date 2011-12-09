@@ -1,0 +1,292 @@
+TDownloadImg
+v3
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/Info.plist DownloadImg/DownloadImg-Info.plist
+cProcessPCH /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch DownloadImg/DownloadImg-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg normal i386
+cGenerateDSYMFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+cCopyStringsFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/InfoPlist.strings DownloadImg/en.lproj/InfoPlist.strings
+cCompileXIB /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib
+cCompileXIB /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib
+cTouch /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D93ED360000000000000110
+t1301540150
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D93DF6900000000002999B0
+t1301536617
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D93DFEA000000000029DA70
+t1301536746
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D93DFDD0000000000001466
+t1301536733
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D93ECBE0000000000000AA1
+t1301540030
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D93ED1B0000000000766870
+t1301540123
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImg-Prefix.pch
+c000000004E6F52F30000000000000148
+t1315918579
+s328
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.h
+c000000004E6F52F300000000000001B4
+t1315918579
+s436
+i<UIKit/UIKit.h>
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m
+c000000004E6F52F30000000000000977
+t1315918579
+s2423
+i"DownloadImgAppDelegate.h"
+i"DownloadImgViewController.h"
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.h
+c000000004E6F7C770000000000000099
+t1315929207
+s153
+i<UIKit/UIKit.h>
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m
+c000000004E6F7CB00000000000000D61
+t1315929264
+s3425
+i"DownloadImgViewController.h"
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib
+c000000004E6F7A110000000000001AF6
+t1315928593
+s6902
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/InfoPlist.strings
+c000000004E6F52F3000000000000002D
+t1315918579
+s45
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib
+c000000004E6F52F30000000000004E49
+t1315918579
+s20041
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m
+c000000004E6F52F30000000000000168
+t1315918579
+s360
+i<UIKit/UIKit.h>
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/Info.plist
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/PkgInfo
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/DownloadImgViewController.nib
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/MainWindow.nib
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImg.LinkFileList
+c000000004E89323300000000000001D7
+t1317614131
+s471
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o
+t2
+s0
+
+N/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch
+t2
+s0
+
+NDownloadImg/DownloadImg-Info.plist
+c000000004E6F635100000000000004CC
+t1315922769
+s1228
+
+CBuild AST from /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m
+r0
+
+CBuild AST from /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m
+r0
+
+CBuild AST from /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesa12b45a96939b441^6804dfb36939b441^---0#1#0#--18"Check dependencies
+
+CCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339306936.075113
+e339306936.316499
+r1
+xCompileC
+xbuild/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o
+x/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m867513b86939b441^4b0551b86939b441^---0#0#0#-19%DVTDocumentLocation2@105"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m0000000000000000^2400"CompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o DownloadImg/DownloadImgAppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-generated-files.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-own-target-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-all-target-headers.hmap -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-project-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/include -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources/i386 -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources -F/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -include /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch -c /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgAppDelegate.m -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgAppDelegate.o
+
+CCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339306936.075373
+e339306936.320843
+r1
+xCompileC
+xbuild/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o
+x/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.mfb9413b86939b441^3e2252b86939b441^---0#0#0#-19%DVTDocumentLocation2@108"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m0000000000000000^2412"CompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o DownloadImg/DownloadImgViewController.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-generated-files.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-own-target-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-all-target-headers.hmap -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-project-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/include -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources/i386 -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources -F/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -include /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch -c /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImgViewController.m -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImgViewController.o
+
+CCompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s339306936.075139
+e339306936.305089
+r1
+xCompileC
+xbuild/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o
+x/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.maa8013b86939b441^39274eb86939b441^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m0000000000000000^2328"CompileC build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o DownloadImg/main.m normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-generated-files.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-own-target-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-all-target-headers.hmap -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-project-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/include -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources/i386 -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources -F/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -include /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch -c /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/main.m -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/main.o
+
+CCompileXIB /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib
+s339306937.236868
+e339306937.837230
+r1
+xCompileXIB
+x/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compiling /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib3dbb3cb96939b441^9b56d6b96939b441^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib0000000000000000^747"CompileXIB DownloadImg/en.lproj/DownloadImgViewController.xib    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/DownloadImgViewController.nib /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/DownloadImgViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCompileXIB /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib
+s339306937.236895
+e339306937.337583
+r1
+xCompileXIB
+x/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compiling /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib84ba3cb96939b441^8f6c56b96939b441^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib0000000000000000^702"CompileXIB DownloadImg/en.lproj/MainWindow.xib    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Developer/usr/bin/..    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/MainWindow.nib /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+
+CCopyStringsFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/InfoPlist.strings DownloadImg/en.lproj/InfoPlist.strings
+s339306937.236238
+e339306937.266012
+r1
+xCopyStringsFile
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj/InfoPlist.strings
+xDownloadImg/en.lproj/InfoPlist.strings
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy DownloadImg/en.lproj/InfoPlist.strings868f3cb96939b441^ec1744b96939b441^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/en.lproj/InfoPlist.strings0000000000000000^555"CopyStringsFile build/Debug-iphonesimulator/DownloadImg.app/en.lproj/InfoPlist.strings DownloadImg/en.lproj/InfoPlist.strings    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/en.lproj -- DownloadImg/en.lproj/InfoPlist.strings
+
+CGenerateDSYMFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+s339306937.168890
+e339306937.233449
+r1
+xGenerateDSYMFile
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Generating /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM1d5b2bb96939b441^b9c23bb96939b441^---0#0#0#-19%DVTDocumentLocation2@117"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM0000204d2205f041^559"GenerateDSYMFile build/Debug-iphonesimulator/DownloadImg.app.dSYM build/Debug-iphonesimulator/DownloadImg.app/DownloadImg    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app.dSYM
+
+CLd /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg normal i386
+s339306936.322062
+e339306937.167651
+r1
+xLd
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+xnormal
+xi386
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Link /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImge69252b86939b441^b3eb2ab96939b441^---0#0#0#--1066"Ld build/Debug-iphonesimulator/DownloadImg.app/DownloadImg normal i386    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -F/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -filelist /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/Objects-normal/i386/DownloadImg.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/DownloadImg
+
+CProcessInfoPlistFile /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/Info.plist DownloadImg/DownloadImg-Info.plist
+s339306931.922473
+e339306931.935777
+r1
+xProcessInfoPlistFile
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/Info.plist
+xDownloadImg/DownloadImg-Info.plist
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Process DownloadImg/DownloadImg-Info.plist9945ecb36939b441^8eadefb36939b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImg-Info.plist0000000000000000^656"ProcessInfoPlistFile build/Debug-iphonesimulator/DownloadImg.app/Info.plist DownloadImg/DownloadImg-Info.plist    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DownloadImg/DownloadImg-Info.plist -genpkginfo /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app/Info.plist
+
+CProcessPCH /Users/docchang/Library/Developer/Xcode/DerivedData/DownloadImg-dpozkatovonzbrhhxwofyhfeyard/Index/PrecompiledHeaders/DownloadImg-Prefix-aofskchbenbkttfwyusclteyccjo_ast/DownloadImg-Prefix.pch.pth DownloadImg/DownloadImg-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch DownloadImg/DownloadImg-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s339306931.938388
+e339306936.073811
+r1
+xProcessPCH
+x/var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch
+xDownloadImg/DownloadImg-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile DownloadImg/DownloadImg-Prefix.pchb262f0b36939b441^f3e412b86939b441^---0#0#0#-19%DVTDocumentLocation2@103"file://localhost/Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImg-Prefix.pch0000000000000000^2302"ProcessPCH /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch DownloadImg/DownloadImg-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-generated-files.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-own-target-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-all-target-headers.hmap -iquote /Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DownloadImg-project-headers.hmap -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/include -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources/i386 -I/Users/docchang/Development/iOS/Projects/DownloadImg/build/DownloadImg.build/Debug-iphonesimulator/DownloadImg.build/DerivedSources -F/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator -c /Users/docchang/Development/iOS/Projects/DownloadImg/DownloadImg/DownloadImg-Prefix.pch -o /var/folders/1L/1LugDwAFHE4JfNaNos0eVE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DownloadImg-Prefix-fyeavtqyreiwzhbuuskhmsoapvdd/DownloadImg-Prefix.pch.gch
+
+CTouch /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app
+s339306937.840052
+e339306937.846445
+r1
+xTouch
+x/Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Touch /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.appfc1cd7b96939b441^f2b0d8b96939b441^---0#0#0#--360"Touch build/Debug-iphonesimulator/DownloadImg.app    cd /Users/docchang/Development/iOS/Projects/DownloadImg    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/docchang/Development/iOS/Projects/DownloadImg/build/Debug-iphonesimulator/DownloadImg.app
+
